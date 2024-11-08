@@ -12246,6 +12246,7 @@ a.card-footer-item.text-muted:hover {
 [data-toggle="collapse"] .collapse-indicator {
   text-align: left;
   color: #888c9b;
+  color: #ed8b37;
 }
 [data-toggle="collapse"] .collapse-indicator > .fa,
 [data-toggle="collapse"] .collapse-indicator > .oi {
